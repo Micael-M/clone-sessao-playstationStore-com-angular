@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o projeto
 
-Este projeto em Angular está sendo desenvolvido para aplicar os conhecimentos que desenvolvi durante o bootcamp do santander fullstack Angular na plataforma da DIO. Tomei como base a sessão do blog do [dwinawan](https://www.dwinawan.com/blog). Ainda estou trabalhando neste projeto, pois desejo refatorá-lo para mobile first e posteriormente adicionar mais seções. 
+Este projeto em Angular está sendo desenvolvido para aplicar os conhecimentos que desenvolvi durante o bootcamp do santander fullstack Angular na plataforma da DIO. Tomei como base a sessão principal do site da playstation store. Ainda estou trabalhando neste projeto, pois desejo refatorá-lo para mobile first e posteriormente adicionar mais seções. 
 
 ## 💻 Aprendizados - Hard e Soft Skills 💪🏽💭
 
