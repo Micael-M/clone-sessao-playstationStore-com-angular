@@ -1,0 +1,44 @@
+.menu-bar__container{
+	box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.5);
+	background-color: #ffffff;
+	display: flex;
+	flex-direction: row;
+	height: 40px;
+	position: fixed;
+	width: 100%;
+	z-index: 10;
+}
+
+.menu-bar__logo{
+  align-items: center;
+  display: flex;
+  margin-left: 30px;
+}
+
+.menu-bar__item{
+  align-items: center;
+  display: flex;
+  margin:auto;
+}
+
+.menu-bar__item > ul{
+	display: flex;
+	list-style-type: none;
+}
+
+.menu-bar__item > ul > li {
+  margin-right: 15px;
+	padding: 5px;
+}
+
+.menu-bar__item > ul > li > a {
+	color: rgb(7, 7, 7);
+	font-family: 'Segoe UI';
+	padding: 5px;
+	text-decoration: none;
+}
+
+.menu-bar__item > ul > li > a:hover {
+	color: rgb(0, 0, 255);
+	font-weight: 500;
+}
